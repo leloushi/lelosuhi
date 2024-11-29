@@ -1,6 +1,6 @@
 # Olá, eu sou Bruno 👋
 
-Sou estudante de Ciência da Computação. Estou em busca de aprender mais sobre programação, novas tecnologias a fundo e como elas realemnte funcionam. Minha intenção é adquirir conhecimento para migrar para a área de cybersegurança como um hacker ético. 
+Sou estudante de Ciência da Computação. Estou em busca de aprender mais sobre programação, novas tecnologias e como elas realemnte funcionam. Minha intenção é adquirir conhecimento para migrar para a área de cybersegurança como um hacker ético. 
 
 ## 🚀 Sobre Mim
 
@@ -14,7 +14,7 @@ Atualmente, estou focado em aprender e aplicar conhecimentos sobre programação
 
 Aqui estão algumas das ferramentas e tecnologias com as quais estou me familiarizando e utilizando:
 
-- **Linguagens de Programação:** Python, C e PHP
+- **Linguagens de Programação:** Python, C, e PHP
 - **Sistemas Operacionais:** Linux e Windows
 
 ## 🎯 Objetivos Futuros
@@ -25,5 +25,5 @@ Aqui estão algumas das ferramentas e tecnologias com as quais estou me familiar
 
 ---
 
-> "Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, a não ser por mim." João14;6
+> "Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, a não ser por mim." João14:6
 
