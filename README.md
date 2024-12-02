@@ -1,6 +1,6 @@
 # Olá, eu sou Bruno 👋
 
-Sou estudante de Ciência da Computação. Estou em busca de aprender mais sobre programação, novas tecnologias e como elas realemnte funcionam. Minha intenção é adquirir conhecimento para migrar para a área de cybersegurança como um hacker ético. 
+Sou estudante de Ciência da Computação. Estou em busca de aprender mais sobre programação, novas tecnologias e como elas realmente funcionam. Minha intenção é adquirir conhecimento para migrar para a área de cybersegurança como um hacker ético. 
 
 ## 🚀 Sobre Mim
 
